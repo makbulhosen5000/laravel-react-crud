@@ -1,6 +1,6 @@
 # React + Laravel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a crud operation with React and Laravel
 
 Currently, two official plugins are available:
 
